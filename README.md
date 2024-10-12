@@ -1,6 +1,6 @@
 # Stable Diffusion Image Generator
 
-![Stable Diffusion](Stable Diffusion Image Generator.jpeg)
+![Stable Diffusion](Stable%20Diffusion%20Image%20Generator.jpeg)
 
 ## Description
 
