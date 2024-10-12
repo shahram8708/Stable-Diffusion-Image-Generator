@@ -1,5 +1,7 @@
 # Stable Diffusion Image Generator
 
+![Stable Diffusion](Stable Diffusion Image Generator.jpeg)
+
 ## Description
 
 This project is a web application that allows users to generate stunning images using the Stable Diffusion model. By entering a creative text prompt, users can see their imagination come to life through AI-generated art.
